@@ -1,0 +1,35 @@
+{
+  "name": "favicon-exist",
+  "version": "0.0.1",
+  "description": "A NodeJs library to check and get the favicon.ico asstes exist",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "coverage": "codecov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noxxxxxxxx/favicon.git"
+  },
+  "keywords": [
+    "favicon"
+  ],
+  "author": "noxxxx",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/noxxxxxxxx/favicon/issues"
+  },
+  "homepage": "https://github.com/noxxxxxxxx/favicon#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "codecov": "^3.6.1",
+    "jest": "^24.9.0"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  }
+}
