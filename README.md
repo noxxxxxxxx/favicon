@@ -1,7 +1,7 @@
 # Favicon
 
-[![Build Status](https://travis-ci.org/noxxxxxxxx/favicon.svg?branch=dev)](https://travis-ci.org/noxxxxxxxx/favicon)
-[![codecov](https://codecov.io/gh/noxxxxxxxx/favicon/branch/dev/graph/badge.svg)](https://codecov.io/gh/noxxxxxxxx/favicon)
+[![Build Status](https://travis-ci.org/noxxxxxxxx/favicon.svg?branch=master)](https://travis-ci.org/noxxxxxxxx/favicon)
+[![codecov](https://codecov.io/gh/noxxxxxxxx/favicon/branch/master/graph/badge.svg)](https://codecov.io/gh/noxxxxxxxx/favicon)
 
 ## Example
 
