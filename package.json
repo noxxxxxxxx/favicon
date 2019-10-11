@@ -1,7 +1,7 @@
 {
   "name": "favicon-exist",
   "version": "0.0.1",
-  "description": "A NodeJs library to check and get the favicon.ico url if exist",
+  "description": "A NodeJs library to check and get the favicon.ico asstes exist",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",

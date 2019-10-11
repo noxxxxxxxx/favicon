@@ -2,8 +2,8 @@
 
 var Url = require('url');
 var request = require('request');
-var extractLink = require('./helper');
-var does_it_render = require('./request');
+var extractLink = require('./lib/helper');
+var does_it_render = require('./lib/request');
 
 module.exports = function (url, callback) {
     var p = Url.parse(url);
